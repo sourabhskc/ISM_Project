@@ -6,9 +6,9 @@ Our task is to design the Backend part of the project that will store the data i
 
 # Backend Team Members
 
-Sourabh Kumar Choudhary (19MCMC49)
-Niraj Vivek (19MCMC42)
-Mohd Farhan (19MCMC08)
+#1 Sourabh Kumar Choudhary (19MCMC49)
+#2 Niraj Vivek (19MCMC42)
+#3 Mohd Farhan (19MCMC08)
 
 # Frontend Team Members 
 
