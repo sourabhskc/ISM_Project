@@ -6,13 +6,13 @@ Our task is to design the Backend part of the project that will store the data i
 
 # Backend Team Members
 
-#1 Sourabh Kumar Choudhary (19MCMC49)
-#2 Niraj Vivek (19MCMC42)
-#3 Mohd Farhan (19MCMC08)
+1. Sourabh Kumar Choudhary (19MCMC49)
+2. Niraj Vivek (19MCMC42)
+3. Mohd Farhan (19MCMC08)
 
 # Frontend Team Members 
 
-Sunny kumar sagar (19MCMC21)
-Keshav Kapoor (19MCMC44)
-Sachin Choudhary (19MCMC71)
-Gopal Mali (19MCMC72)
+1. Sunny kumar sagar (19MCMC21)
+2. Keshav Kapoor (19MCMC44)
+3. Sachin Choudhary (19MCMC71)
+4. Gopal Mali (19MCMC72)
